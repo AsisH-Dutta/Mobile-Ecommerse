@@ -11,5 +11,3 @@ Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree
  * Last updated: Tue, 07 Nov 2023 15:11:36 GMT
  * Dependencies: none
 
-# Credits
-These definitions were written by [ExE Boss](https://github.com/ExE-Boss), and [BendingBender](https://github.com/BendingBender).
